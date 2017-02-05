@@ -41,8 +41,8 @@
 <h3 class="text-center">Want to go to an event?</h3>
 <p class="text-center">Finding out if you are free can
 be a kerfuffle. You've got to check facebook, eventbrite, google
-calenar, your outlook, possible even <b>more</b>! You
-don't need that stress. So let's make it easy!</p>
+calendar, your outlook, possibly even <b>more</b>!<br>You
+don't need that stress.<br>So let's make it easy!</p>
 <h3 class="text-center">Let's use Calcheck!</h3>
 </div>
 </li>
