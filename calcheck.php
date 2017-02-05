@@ -81,7 +81,7 @@ slide details.</span></button>
 <a class="button warning" href="#"><h3>Coming soon</h3></a>
 </div>
 </div>
+<p align="right">This is just a holding front page.<br>Calcheck is Aimee's working name for this project and is not a final name.<br>This whole site is under construction, bits may;<br>move, break, be taken out,<br>or other wise be unaccessible at any time.</p>
 <script src="bower_components/jquery/dist/jquery.js"></script>
-
     <script src="js/foundation.js"></script>
     <script src="js/app.js"></script></body></html>
